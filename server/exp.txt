@@ -1,0 +1,8 @@
+const movieName = req.body.movieName
+const movieReview = req.body.movieReview
+
+Explanaition:
+---------------
+::Here we are declaring the variable called 'movieName' and we are assigning to it the value of the movieName that contained 
+the information the user typed in the 'movie name' box of the frontend   
+
